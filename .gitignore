@@ -1,0 +1,7 @@
+/.build/
+/__pycache__/
+*.pyc
+
+# 编译成品通过 GitHub Releases 发布
+/显示监控.exe
+/关闭监控.exe
